@@ -2,10 +2,10 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package prueba;
+package ejercicio1;
 
-import com.fpmislata.prueba.ejer1.Persona;
-import com.fpmislata.prueba.ejer1.Sexo;
+import com.fpmislata.Ejercicio1.datos.Persona;
+import com.fpmislata.Ejercicio1.datos.Sexo;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -17,7 +17,7 @@ import java.util.Set;
  *
  * @author alumno
  */
-public class Prueba {
+public class Ejercicio1 {
 
     /**
      * @param args the command line arguments
